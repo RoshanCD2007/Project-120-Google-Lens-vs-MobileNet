@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+}
+
+.project{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    width: 100%;
+    font-size: 18px;
+    bottom: 0;
+    color: white;
+    text-align: center;
+    background-color: gray;
+    line-height: 3;
+  }
+
+  #result{
+      background-color: palevioletred;
+      margin : 50px;
+  }
+
+  .mini_result{
+      font-weight: bold;
+      font-style: italic;
+  }
